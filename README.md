@@ -1,3 +1,6 @@
+![image](https://user-images.githubusercontent.com/Capture d’écran 2023-12-13 224945.png)
+
+
 # Chatbot
 At Digital Rogue Wave, I led the development of the chatbot 'Talk to Digital Rogue Wave,' marking a significant advancement in client communication
 
