@@ -1,5 +1,5 @@
 
-![Capture d’écran 2023-12-13 224945](https://github.com/ihebakermi10/Chatbot/assets/90511874/6c84b2b2-e275-400b-9351-ccacff366bb9)
+![image](https://github.com/ihebakermi10/Chatbot/assets/90511874/fca9d6a5-4ff8-4ba6-b0b8-76cf97ec9f93)
 
 # Chatbot
 
