@@ -1,5 +1,5 @@
-![image](https://user-images.githubusercontent.com/Capture d’écran 2023-12-13 224945.png)
 
+![Capture d’écran 2023-12-13 224945](https://github.com/ihebakermi10/Chatbot/assets/90511874/6c84b2b2-e275-400b-9351-ccacff366bb9)
 
 # Chatbot
 At Digital Rogue Wave, I led the development of the chatbot 'Talk to Digital Rogue Wave,' marking a significant advancement in client communication
