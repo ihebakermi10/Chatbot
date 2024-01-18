@@ -1,6 +1,32 @@
 
 ![image](https://github.com/ihebakermi10/Chatbot/assets/90511874/fca9d6a5-4ff8-4ba6-b0b8-76cf97ec9f93)
 
+
+
+# Chatbot
+
+During my tenure at Digital Rogue Wave, I spearheaded the development of the chatbot 'Talk to Digital Rogue Wave,' marking a significant leap forward in client communication.
+
+👉 Project:
+
+We engineered an end-to-end system based on Google Palm and Langchain, enabling the chatbot to interact seamlessly with the Digital Rogue Wave database. To substantially enhance natural language understanding, we seamlessly integrated "Hugging Face Embeddings" into our system. These embeddings are rich vector representations of words and phrases, empowering the chatbot to capture the semantics and context of user queries.
+
+🚀 Project Highlights:
+
+💼 Business Nature: Digital Rogue Wave offers IT solutions, encompassing website development and maintenance.
+
+📊 Managed Data: Inventory, sales, and discounts stored in a MySQL database.
+
+🧠 Technologies Used:
+
+- Google Palm LLM
+- Hugging Face Embeddings (enhancing natural language understanding)
+- Streamlit for the user interface
+- Langchain Framework
+- Chromadb as a vector store
+- Few-shot learning
+
+
 # Chatbot
 
 At Digital Rogue Wave, I led the development of the chatbot 'Talk to Digital Rogue Wave,' marking a significant advancement in client communication
@@ -30,4 +56,9 @@ Framework Langchain
 Chromadb comme vecteur store
 
 Apprentissage few-shot
+
+
+
+
+
 
