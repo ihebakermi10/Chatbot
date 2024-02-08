@@ -1,5 +1,4 @@
 
-![image](https://github.com/ihebakermi10/Chatbot/assets/90511874/fca9d6a5-4ff8-4ba6-b0b8-76cf97ec9f93)
 
 
 
@@ -19,12 +18,11 @@ We engineered an end-to-end system based on Google Palm and Langchain, enabling 
 
 🧠 Technologies Used:
 
-- Google Palm LLM
-- Hugging Face Embeddings (enhancing natural language understanding)
-- Streamlit for the user interface
+- Google Palm 
+- Hugging Face Embeddings 
+- Streamlit
 - Langchain Framework
 - Chromadb as a vector store
-- Few-shot learning
 
 
 # Chatbot
@@ -45,17 +43,16 @@ Nous avons développé un système de bout en bout basé sur Google Palm et Lang
 
 🧠 Technologies utilisées :
 
-Google Palm LLM
+Google Palm 
 
-Embeddings Hugging Face (améliorant la compréhension du langage naturel)
+ Hugging Face 
 
-Streamlit pour l'interface utilisateur
+Streamlit 
 
 Framework Langchain
 
-Chromadb comme vecteur store
+Chromadb 
 
-Apprentissage few-shot
 
 
 #results
