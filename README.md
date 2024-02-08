@@ -58,7 +58,10 @@ Chromadb comme vecteur store
 Apprentissage few-shot
 
 
+#results
 
 
-
+![Capture d’écran 2023-12-13 232354](https://github.com/ihebakermi10/Chatbot/assets/90511874/e873d824-6fa8-4aaf-a3b9-220985f04bf6)
+![Capture d’écran 2023-12-13 232147](https://github.com/ihebakermi10/Chatbot/assets/90511874/225d9f2c-b28c-4cbb-85f8-c1b6fa500a2e)
+![Capture d’écran 2023-12-13 232157](https://github.com/ihebakermi10/Chatbot/assets/90511874/fa38c2f8-8d1c-499f-aad0-33986466e8ba)
 
