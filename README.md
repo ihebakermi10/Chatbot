@@ -18,10 +18,8 @@ We engineered an end-to-end system based on Google Palm and Langchain, enabling 
 
 🧠 Technologies Used:
 
-- Google Palm 
+-  Palm 
 - Hugging Face Embeddings 
-- Streamlit
-- Langchain Framework
 - Chromadb as a vector store
 
 
@@ -43,15 +41,9 @@ Nous avons développé un système de bout en bout basé sur Google Palm et Lang
 
 🧠 Technologies utilisées :
 
-Google Palm 
-
- Hugging Face 
-
-Streamlit 
-
-Framework Langchain
-
-Chromadb 
+-Palm 
+-Hugging Face 
+-Chromadb 
 
 
 
