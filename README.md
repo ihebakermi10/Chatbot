@@ -25,7 +25,7 @@ We engineered an end-to-end system based on Google Palm and Langchain, enabling 
 
 🧠 Technologies Used:
 
--  Palm 
+- Palm 
 - Hugging Face Embeddings 
 - Chromadb as a vector store
 
