@@ -15,7 +15,7 @@ During my tenure at Digital Rogue Wave, I spearheaded the development of the cha
 
 👉 Project:
 
-We engineered an end-to-end system based on Google Palm and Langchain, enabling the chatbot to interact seamlessly with the Digital Rogue Wave database. To substantially enhance natural language understanding, we seamlessly integrated "Hugging Face Embeddings" into our system. These embeddings are rich vector representations of words and phrases, empowering the chatbot to capture the semantics and context of user queries.
+We engineered an end-to-end system based on Google Palm , enabling the chatbot to interact seamlessly with the Digital Rogue Wave database. To substantially enhance natural language understanding, we seamlessly integrated "Hugging Face Embeddings" into our system. These embeddings are rich vector representations of words and phrases, empowering the chatbot to capture the semantics and context of user queries.
 
 🚀 Project Highlights:
 
@@ -37,7 +37,7 @@ At Digital Rogue Wave, I led the development of the chatbot 'Talk to Digital Rog
 
 👉 Projet :
 
-Nous avons développé un système de bout en bout basé sur Google Palm et Langchain, permettant au chatbot de dialoguer avec la base de données de Digital Rogue Wave. Pour améliorer significativement la compréhension du langage naturel, nous avons intégré les 
+Nous avons développé un système de bout en bout basé sur Google Palm , permettant au chatbot de dialoguer avec la base de données de Digital Rogue Wave. Pour améliorer significativement la compréhension du langage naturel, nous avons intégré les 
 "Embeddings Hugging Face" dans notre système. Ces embeddings sont des représentations vectorielles riches des mots et des phrases, permettant au chatbot de capturer la sémantique et le contexte des questions posées par les utilisateurs.
 
 🚀 Points forts du projet :
