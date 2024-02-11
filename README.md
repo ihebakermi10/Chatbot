@@ -49,7 +49,7 @@ Nous avons développé un système de bout en bout basé sur Google Palm , perme
 🧠 Technologies utilisées :
 
 -Palm 
--Hugging Face 
+-Hugging Face embeddings
 -Chromadb 
 
 
